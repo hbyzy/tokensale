@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Nebula">
+    <test name="testeNebulaTokemSale">
+        <classes>
+            <class name="com.ecvictor.nebula.TokenSaleEn"/>
+            <class name="com.ecvictor.nebula.WhiteList"/>
+            <class name="com.ecvictor.nebula.LoginPage"/>
+            <class name="com.ecvictor.nebula.tokensaleNebulaAiChineseTest"/>
+
+        </classes>
+    </test>
+</suite>
