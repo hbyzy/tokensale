@@ -14,9 +14,9 @@
 <!--<suite name="Nebulae" parallel="methods" thread-count="3">-->
     <!--<test name="Test-class test">-->
         <!--<classes>-->
-            <!--<class name="com.ecvictor.testng.nebulahomepagehomepage.ChineseSimpleTest"/>-->
-            <!--<class name="com.ecvictor.testng.nebulahomepagehomepage.ChineseTraditionTest"/>-->
-            <!--<class name="com.ecvictor.testng.nebulahomepagehomepage.EnglishTest"/>-->
+            <!--<class name="com.ecvictor.testng.nebula.ChineseSimpleTest"/>-->
+            <!--<class name="com.ecvictor.testng.nebula.ChineseTraditionTest"/>-->
+            <!--<class name="com.ecvictor.testng.nebula.EnglishTest"/>-->
         <!--</classes>-->
     <!--</test>-->
 <!--</suite>-->
