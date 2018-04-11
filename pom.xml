@@ -177,7 +177,7 @@
                         </properties>
                         <threadCount>1</threadCount>
                         <suiteXmlFiles>
-                           	<suiteXmlFile>src/test/resources/nebula.xml</suiteXmlFile>
+                           	<!--<suiteXmlFile>src/test/resources/nebula.xml</suiteXmlFile>-->
                            	<suiteXmlFile>src/test/resources/tokensale.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
