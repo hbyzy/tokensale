@@ -5,9 +5,9 @@
 <suite name="Nebula">
     <test name="testeNebulaDetail">
         <classes>
-            <class name="com.ecvictor.testng.nebula.ChineseSimpleTest"/>
-            <class name="com.ecvictor.testng.nebula.ChineseTraditionTest"/>
-            <class name="com.ecvictor.testng.nebula.EnglishTest"/>
+            <class name="com.ecvictor.testng.nebulahomepage.ChineseSimpleTest"/>
+            <class name="com.ecvictor.testng.nebulahomepage.ChineseTraditionTest"/>
+            <class name="com.ecvictor.testng.nebulahomepage.EnglishTest"/>
         </classes>
     </test>
 </suite>

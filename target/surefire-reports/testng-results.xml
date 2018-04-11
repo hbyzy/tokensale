@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Nebula" duration-ms="416466" started-at="2018-04-10T13:50:57Z" finished-at="2018-04-10T13:57:53Z">
+    <groups>
+    </groups>
+    <test name="testeNebulaDetail" duration-ms="416466" started-at="2018-04-10T13:50:57Z" finished-at="2018-04-10T13:57:53Z">
+      <class name="com.ecvictor.testng.nebula.ChineseTraditionTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecvictor.testng.nebula.ChineseTraditionTest@6d8a00e3]" name="setUp" is-config="true" duration-ms="8359" started-at="2018-04-10T09:53:22Z" finished-at="2018-04-10T09:53:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPage_ChT()[pri:0, instance:com.ecvictor.testng.nebula.ChineseTraditionTest@6d8a00e3]" name="testPage_ChT" duration-ms="125724" started-at="2018-04-10T09:53:30Z" finished-at="2018-04-10T09:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage_ChT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecvictor.testng.nebula.ChineseTraditionTest@6d8a00e3]" name="tearDown" is-config="true" duration-ms="3623" started-at="2018-04-10T09:55:36Z" finished-at="2018-04-10T09:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecvictor.testng.nebula.ChineseTraditionTest -->
+      <class name="com.ecvictor.testng.nebula.EnglishTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecvictor.testng.nebula.EnglishTest@548b7f67]" name="setUp" is-config="true" duration-ms="5642" started-at="2018-04-10T09:55:40Z" finished-at="2018-04-10T09:55:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tesPage_En()[pri:0, instance:com.ecvictor.testng.nebula.EnglishTest@548b7f67]" name="tesPage_En" duration-ms="126521" started-at="2018-04-10T09:55:45Z" finished-at="2018-04-10T09:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesPage_En -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecvictor.testng.nebula.EnglishTest@548b7f67]" name="tearDown" is-config="true" duration-ms="1491" started-at="2018-04-10T09:57:52Z" finished-at="2018-04-10T09:57:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecvictor.testng.nebula.EnglishTest -->
+      <class name="com.ecvictor.testng.nebula.ChineseSimpleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ecvictor.testng.nebula.ChineseSimpleTest@5ae9a829]" name="setUp" is-config="true" duration-ms="10511" started-at="2018-04-10T09:50:57Z" finished-at="2018-04-10T09:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPage_ChS()[pri:0, instance:com.ecvictor.testng.nebula.ChineseSimpleTest@5ae9a829]" name="testPage_ChS" duration-ms="132609" started-at="2018-04-10T09:51:08Z" finished-at="2018-04-10T09:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPage_ChS -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecvictor.testng.nebula.ChineseSimpleTest@5ae9a829]" name="tearDown" is-config="true" duration-ms="1961" started-at="2018-04-10T09:53:20Z" finished-at="2018-04-10T09:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecvictor.testng.nebula.ChineseSimpleTest -->
+    </test> <!-- testeNebulaDetail -->
+  </suite> <!-- Nebula -->
+</testng-results>

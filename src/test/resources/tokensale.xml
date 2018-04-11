@@ -5,10 +5,11 @@
 <suite name="Nebula">
     <test name="testeNebulaTokemSale">
         <classes>
-            <class name="com.ecvictor.nebula.TokenSaleEn"/>
-            <class name="com.ecvictor.nebula.WhiteList"/>
-            <class name="com.ecvictor.nebula.LoginPage"/>
-            <class name="com.ecvictor.nebula.tokensaleNebulaAiChineseTest"/>
+            <!--<class name="com.ecvictor.nebula.TokenSaleEn"/>-->
+            <!--<class name="com.ecvictor.nebula.WhiteList"/>-->
+            <!--<class name="com.ecvictor.nebula.LoginPage"/>-->
+            <!--<class name="com.ecvictor.nebula.tokensaleNebulaAiChineseTest"/>-->
+            <class name="com.ecvictor.nebula.TryVideoClick"/>
 
         </classes>
     </test>
