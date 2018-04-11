@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Nebula]">
+  <test name="testeNebulaDetail(failed)">
+    <classes>
+      <class name="com.ecvictor.testng.nebula.ChineseSimpleTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testPage_ChS"/>
+        </methods>
+      </class> <!-- com.ecvictor.testng.nebula.ChineseSimpleTest -->
+      <class name="com.ecvictor.testng.nebula.EnglishTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="tesPage_En"/>
+        </methods>
+      </class> <!-- com.ecvictor.testng.nebula.EnglishTest -->
+      <class name="com.ecvictor.testng.nebula.ChineseTraditionTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testPage_ChT"/>
+        </methods>
+      </class> <!-- com.ecvictor.testng.nebula.ChineseTraditionTest -->
+    </classes>
+  </test> <!-- testeNebulaDetail(failed) -->
+</suite> <!-- Failed suite [Nebula] -->
